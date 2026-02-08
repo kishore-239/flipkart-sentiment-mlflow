@@ -157,7 +157,7 @@ The project emphasizes reproducibility, clarity, and practical MLOps practices.
 ## Author
 
 **Krishna Kishore**  
-mail : kishorekrishna623@gmail.com  
+mail : kishorekrishna623@gmail.com
 
 ---
 
