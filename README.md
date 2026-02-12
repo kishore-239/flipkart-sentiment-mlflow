@@ -116,7 +116,7 @@ This enables versioning and future lifecycle management of the model.
 
 ---
 
-## Prefect Workflow (Bonus)
+## Prefect Workflow
 
 A minimal Prefect workflow was implemented to demonstrate task orchestration.
 
@@ -164,3 +164,4 @@ mail : kishorekrishna623@gmail.com
 ## Tags
 
 #MachineLearning #MLOps #MLflow #Prefect #SentimentAnalysis #Internship
+
